@@ -1,6 +1,6 @@
-# Portfolio de Martín José García Navarro
+# Mi portfolio
 
-Portfolio académico desarrollado con HTML5 para la asignatura Desarrollo de Web y de Apps.
+Soy Martín José García Navarro y este es mi portfolio para la asignatura Desarrollo de Web y de Apps. Aquí reúno mis proyectos, mi formación y lo que voy aprendiendo.
 
 ## Web
 
@@ -19,8 +19,8 @@ Las imágenes, el logo, el favicon y la imagen de Open Graph están en `img/`.
 
 ## Multimedia
 
-- Vídeo: [Human Chess IRL with Chess Masters](https://www.youtube.com/watch?v=m7fnssMgbqs), de Nelson Boys. Incrustado desde YouTube.
-- Canción: [Moonlight Sonata, 3rd Movement (Meganeko Remix)](https://www.youtube.com/watch?v=r8x7HCGaTIg), de Meganeko, sobre la obra de Beethoven. Enlazada a YouTube.
+- Vídeo que me gusta: [Human Chess IRL with Chess Masters](https://www.youtube.com/watch?v=m7fnssMgbqs), de Nelson Boys. Soy aficionado al ajedrez y me gusta verlo representado con personas en la vida real.
+- Mi canción favorita: [Moonlight Sonata, 3rd Movement (Meganeko Remix)](https://www.youtube.com/watch?v=r8x7HCGaTIg), de Meganeko, sobre la obra de Beethoven.
 
 ## Tecnologías
 
