@@ -4,7 +4,7 @@ Portfolio académico desarrollado con HTML5 para la asignatura Desarrollo de Web
 
 ## Web
 
-URL prevista: https://github.com/MartinAI100/portfolio
+Web: https://github.com/MartinAI100/portfolio
 
 ## Páginas
 
