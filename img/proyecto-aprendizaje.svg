@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="138" viewBox="0 0 960 300">
+  <rect width="440" height="138" fill="#f4f7fb"/>
+  <g font-family="Arial, sans-serif" fill="#172b4d" text-anchor="middle">
+    <text x="480" y="45" font-size="25">Proceso de aprendizaje automático</text>
+    <g fill="#fff" stroke="#47658d" stroke-width="2">
+      <rect x="30" y="100" width="200" height="100" rx="8"/>
+      <rect x="265" y="100" width="200" height="100" rx="8"/>
+      <rect x="500" y="100" width="200" height="100" rx="8"/>
+      <rect x="735" y="100" width="200" height="100" rx="8"/>
+      <path d="M235 150h23m-8-7 8 7-8 7M470 150h23m-8-7 8 7-8 7M705 150h23m-8-7 8 7-8 7" fill="none"/>
+    </g>
+    <g font-size="20">
+      <text x="130" y="145">Preparar</text><text x="130" y="172">los datos</text>
+      <text x="365" y="145">Entrenar</text><text x="365" y="172">el modelo</text>
+      <text x="600" y="145">Evaluar</text><text x="600" y="172">los resultados</text>
+      <text x="835" y="145">Comparar</text><text x="835" y="172">e interpretar</text>
+    </g>
+    <text x="480" y="255" font-size="17">Esquema ilustrativo del proceso; no es una captura del repositorio.</text>
+  </g>
+</svg>
